@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Okrio's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Okrio&show_icons=true&count_private=true&theme=gotham
+![Metrics](https://metrics.lecoq.io/Okrio?template=classic&config.timezone=Asia%2FHangzhou)
 
