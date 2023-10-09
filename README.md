@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![Metrics](https://metrics.lecoq.io/Okrio?template=classic&config.timezone=Asia%2FHangzhou)
 
 
-![Okrio's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Okrio&show_icons=true&count_private=true&theme=gotham)
+ - ![Okrio's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Okrio&show_icons=true&count_private=true&theme=gotham)
 
