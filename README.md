@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Metrics](https://metrics.lecoq.io/Okrio?template=classic&base.indepth=true&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&config.timezone=Asia%2FShanghai)
+![Okrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Okrio)](https://github.com/anuraghazra/github-readme-stats)
